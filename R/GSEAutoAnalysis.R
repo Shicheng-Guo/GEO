@@ -4,6 +4,8 @@
 # for ips methylatin 450K analysis
 # setwd("G:\\geo")
 
+source("http://bioconductor.org/biocLite.R")
+biocLite("ggfortify")
 library("optparse")
 option_list = list(
   make_option(c("-id", "--input"), type="character", default=NULL, help="GSE ID", metavar="character")
@@ -52,12 +54,12 @@ PCAPlot<-function(data,pheno,output,multifigure=T){
   for(i in 1:length(scores$PC1)){
     points(scores$PC1[i],scores$PC2[i],pch=as.numeric(as.factor(pheno))[i],col=col[i],cex=0.8,lwd=2)
   }
-  legend("topleft",legend=names(table(pheno)),pch=1:length(table(pheno)),col=1:length(table(pheno)),bty="n",pt.lwd=2)
+  legend("topleft",legend=names(table(pheno)),pch=1:length(table(pheno)),col=1:length(table(pheno)),bty="n",pt.lwd=2,,cex=0.5)
   plot(x=scores$PC1,y=scores$PC3, xlim=c(min(scores$PC1),max(scores$PC1)),ylim=c(min(scores$PC3),max(scores$PC3)),type="n",xlab="PC1",ylab="PC3")
   for(i in 1:length(scores$PC1)){
     points(scores$PC1[i],scores$PC3[i],pch=as.numeric(as.factor(pheno))[i],col=col[i],cex=0.9,lwd=2)
   }
-  legend("bottomleft",legend=names(table(pheno)),pch=1:length(table(pheno)),col=1:length(table(pheno)),bty="n",pt.lwd=2)
+  legend("bottomleft",legend=names(table(pheno)),pch=1:length(table(pheno)),col=1:length(table(pheno)),bty="n",pt.lwd=2,cex=0.5)
   dev.off()
 }
 data1=na.omit(data)
