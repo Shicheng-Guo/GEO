@@ -1,24 +1,15 @@
-# For PCA Analysis to methylation 450K dataset
-# for ips methylatin 450K analysis
-# setwd("G:\\geo")
-library("GEOquery")
-setwd("/home/shg047/oasis/GEO")
+---
+title: "Methylation Analysis Based on GEO dataset"
+author: "Shicheng Guo"
+date: "July 28, 2016"
+output: html_document
+---
 
-GSEID<-"GSE50192"
-GEO <- getGEO(GSEID,destdir="/home/shg047/oasis/GEO")
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 library("GEOquery")
-save(GEO,file=paste(GSEID,".RData",sep=""))
-load(paste(GSEID,".RData",sep=""))
-data <- as.data.frame(exprs(GEO[[1]]))
-phen <- pData(phenoData(GEO[[1]]))
-
-phen1<-sapply(strsplit(as.character(phen$characteristics_ch1),": "),function(x) unlist(x)[2]) 
-phen2<-sapply(strsplit(as.character(phen$characteristics_ch1.1),": "),function(x) unlist(x)[2]) 
-# phen3<-sapply(strsplit(as.character(phen$characteristics_ch1.3),": "),function(x) unlist(x)[2])  # age
-# phen4<-sapply(strsplit(as.character(phen$characteristics_ch1.4),": "),function(x) unlist(x)[2])  # gender
-# phen3[phen3=="f"]<-"Female"
-# phen3[phen3=="m"]<-"Male"
-# phen1[phen1=="rheumatoid arthritis"]<-"Rheumatoid Arthritis"
+```
+```{r function, echo=F}
 PCAPlot<-function(data,pheno,output,multifigure=T){
   pca <- prcomp(data,center=T,scale = F)  # Here, input file: row is individual and column is variable
   outputfile=paste(output,".pdf",sep="")
@@ -47,9 +38,35 @@ PCAPlot<-function(data,pheno,output,multifigure=T){
   legend("bottomleft",legend=names(table(pheno)),pch=1:length(table(pheno)),col=1:length(table(pheno)),bty="n",pt.lwd=2)
   dev.off()
 }
+
+```
+
+# For PCA Analysis to methylation 450K dataset
+# for ips methylatin 450K analysis
+
+```{r configure,echo=T}
+setwd("/home/shg047/oasis/GEO")
+GSEID<-"GSE50192"
+```
+
+```{r running, echo=T}
+GEO <- getGEO(GSEID,destdir="/home/shg047/oasis/GEO")
+library("GEOquery")
+save(GEO,file=paste(GSEID,".RData",sep=""))
+load(paste(GSEID,".RData",sep=""))
+data <- as.data.frame(exprs(GEO[[1]]))
+phen <- pData(phenoData(GEO[[1]]))
+
+phen1<-sapply(strsplit(as.character(phen$characteristics_ch1),": "),function(x) unlist(x)[2]) 
+phen2<-sapply(strsplit(as.character(phen$characteristics_ch1.1),": "),function(x) unlist(x)[2]) 
+# phen3<-sapply(strsplit(as.character(phen$characteristics_ch1.3),": "),function(x) unlist(x)[2])  # age
+# phen4<-sapply(strsplit(as.character(phen$characteristics_ch1.4),": "),function(x) unlist(x)[2])  # gender
+# phen3[phen3=="f"]<-"Female"
+# phen3[phen3=="m"]<-"Male"
+# phen1[phen1=="rheumatoid arthritis"]<-"Rheumatoid Arthritis"
 data1=na.omit(data)
 PCAPlot(t(data1),phen1,output=paste(GSEID,"_phen1.pca.pdf",sep=""),multifigure=T)
 PCAPlot(t(data1),phen2,output=paste(GSEID,"_phen2.pca.pdf",sep=""),multifigure=T)
-
+```
 
 
