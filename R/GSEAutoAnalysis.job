@@ -10,4 +10,5 @@
  #PBS -m abe
  #PBS -A k4zhang-group
  cd $PBS_O_WORKDIR
- Rscript --vanilla ./GSEAutoAnalysis.R -i "GSE50192"
+# Rscript --vanilla ./GSEAutoAnalysis.R -i "GSE50192"
+ Rscript --vanilla ./GSEAutoAnalysis.R -i "GSE89181"
