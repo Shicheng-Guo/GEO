@@ -9,6 +9,7 @@ tar xvf GSE63123_RAW.tar
 gunzip *.gz
 rm GSE63123_RAW.tar
 head GSM2330155_A124PrF.cg.txt
+wc -l *txt   # 56,434,897
 
 # format: chr     position        strand  methylated_read_count   total_read_count
 
