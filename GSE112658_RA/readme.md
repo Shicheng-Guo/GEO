@@ -2,7 +2,7 @@ Ai R, Laragione T, Hammaker D, Boyle DL et al. Comprehensive epigenetic landscap
 
 ```
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112658
-gunzip *.gz
+https://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112658/suppl/
 
 cd /home/guosa/hpc/rheumatology/RA/GEO
 wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112658/suppl/filelist.txt
