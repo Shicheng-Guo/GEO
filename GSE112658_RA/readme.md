@@ -5,5 +5,9 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112658
 gunzip *.gz
 
 cd /home/guosa/hpc/rheumatology/RA/GEO
+wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112658/suppl/filelist.txt
+wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE112nnn/GSE112658/suppl/GSE112658_RAW.tar
+
+tar xvf GSE112658_RAW.tar
 
 ```
