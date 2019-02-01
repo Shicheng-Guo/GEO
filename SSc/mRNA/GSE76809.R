@@ -1,5 +1,5 @@
 # Version info: R 3.2.3, Biobase 2.30.0, GEOquery 2.40.0, limma 3.26.8
-# R scripts generated  Fri Feb 1 14:34:59 EST 2019
+# R scripts generated  Fri Feb 1 15:28:27 EST 2019
 
 ################################################################
 #   Differential expression analysis with limma
@@ -18,11 +18,11 @@ fvarLabels(gset) <- make.names(fvarLabels(gset))
 
 # group names for all samples
 gsms <- paste0("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "XXXX1111111111111111111100000000000000000000000000",
-        "00000000000000000000000000000000000001100000000000",
-        "00000000000000000000000000000000000000000000000000",
-        "0000000000000000000XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "XXXXXXXXXXXXXXX000000000011111")
+               "XXXX1111111111111111111100000000000000000000000000",
+               "00000000000000000000000000000000000001100000000000",
+               "00000000000000000000000000000000000000000000000000",
+               "0000000000000000000XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+               "XXXXXXXXXXXXXXX000000000011111")
 sml <- c()
 for (i in 1:nchar(gsms)) { sml[i] <- substr(gsms,i,i) }
 
@@ -35,10 +35,13 @@ gset <- gset[ ,sel]
 ex <- exprs(gset)
 qx <- as.numeric(quantile(ex, c(0., 0.25, 0.5, 0.75, 0.99, 1.0), na.rm=T))
 LogC <- (qx[5] > 100) ||
-          (qx[6]-qx[1] > 50 && qx[2] > 0) ||
-          (qx[2] > 0 && qx[2] < 1 && qx[4] > 1 && qx[4] < 2)
+  (qx[6]-qx[1] > 50 && qx[2] > 0) ||
+  (qx[2] > 0 && qx[2] < 1 && qx[4] > 1 && qx[4] < 2)
 if (LogC) { ex[which(ex <= 0)] <- NaN
-  exprs(gset) <- log2(ex) }
+exprs(gset) <- log2(ex) }
+
+uu<-exprs(gset)
+write.table(exprs(gset),file="Human-Skin-SSc-vs-Normal.txt",sep="\t",quote=F,row.names = T,col.names = NA)
 
 # set up the data and proceed with analysis
 sml <- paste("G", sml, sep="")    # set group names
@@ -69,14 +72,14 @@ gset <- gset[[idx]]
 
 # group names for all samples in a series
 gsms <- paste0("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "XXXX1111111111111111111100000000000000000000000000",
-        "00000000000000000000000000000000000001100000000000",
-        "00000000000000000000000000000000000000000000000000",
-        "0000000000000000000XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "XXXXXXXXXXXXXXX000000000011111")
+               "XXXX1111111111111111111100000000000000000000000000",
+               "00000000000000000000000000000000000001100000000000",
+               "00000000000000000000000000000000000000000000000000",
+               "0000000000000000000XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+               "XXXXXXXXXXXXXXX000000000011111")
 sml <- c()
 for (i in 1:nchar(gsms)) { sml[i] <- substr(gsms,i,i) }
-sml <- paste("G", sml, sep="")  set group names
+sml <- paste("G", sml, sep="")  
 
 # eliminate samples marked as "X"
 sel <- which(sml != "X")
