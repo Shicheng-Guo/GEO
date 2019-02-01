@@ -1,5 +1,54 @@
 
+Step (1): Data Collection
+```
+library("GEOquery")
 
+GSE125362 <- getGEO("GSE125362")
+GSE125362 <- as.data.frame(exprs(GSE125362[[1]]))
+phen <- pData(phenoData(GSE125362[[1]]))
+head(GSE125362[1:5,1:5])
+
+GSE32413 <- getGEO("GSE32413")
+GSE32413 <- as.data.frame(exprs(GSE32413[[1]]))
+phen <- pData(phenoData(GSE32413[[1]]))
+head(GSE32413[1:5,1:5])
+
+GSE125362 <- getGEO("GSE125362")
+GSE125362 <- as.data.frame(exprs(GSE125362[[1]]))
+phen <- pData(phenoData(GSE125362[[1]]))
+head(GSE125362[1:5,1:5])
+
+GSE76885 <- getGEO("GSE76885")
+GSE76885 <- as.data.frame(exprs(GSE76885[[1]]))
+phen <- pData(phenoData(GSE76885[[1]]))
+head(GSE76885[1:5,1:5])
+
+GSE76807 <- getGEO("GSE76807")
+GSE76807 <- as.data.frame(exprs(GSE76807[[1]]))
+phen <- pData(phenoData(GSE76807[[1]]))
+head(GSE76807[1:5,1:5])
+
+GSE68698 <- getGEO("GSE68698")
+GSE68698 <- as.data.frame(exprs(GSE68698[[1]]))
+phen <- pData(phenoData(GSE68698[[1]]))
+head(GSE68698[1:5,1:5])
+
+GSE59785 <- getGEO("GSE59785")
+GSE59785 <- as.data.frame(exprs(GSE59785[[1]]))
+phen <- pData(phenoData(GSE59785[[1]]))
+head(GSE59785[1:5,1:5])
+
+GSE45485 <- getGEO("GSE45485")
+GSE45485 <- as.data.frame(exprs(GSE45485[[1]]))
+phen <- pData(phenoData(GSE45485[[1]]))
+head(GSE45485[1:5,1:5])
+
+GSE19617 <- getGEO("GSE19617")
+data <- as.data.frame(exprs(GSE19617[[1]]))
+phen <- pData(phenoData(GSE19617[[1]]))
+head(data[1:5,1:5])
+```
+Step(2): Data Merge
 ```
 library("GEOquery")
 GSE16256 <- getGEO("GSE16256")
