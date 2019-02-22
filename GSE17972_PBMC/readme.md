@@ -31,7 +31,7 @@ done
 
  install CPAN
  reload cpan
-```
+
  # qmap to bedgraph, liftOver hg18 to hg19 and hg38, finally sort the bedgraph 
 
  for i in `ls *.txt`
@@ -74,3 +74,4 @@ done
  bedGraphToBigWig $i ~/work/db/hg19/hg19.chrom.sizes $i.bw
  bedGraphToBigWig $i ~/work/db/hg38/hg38.chrom.sizes $i.bw
  done
+```
