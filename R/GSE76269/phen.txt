@@ -1,0 +1,403 @@
+TUMOR TYPE	SAMPLE	SUBTYPE or STAGE	GENDER	AGE	age in years (y) or months (m)	SOMATIC SNVs GENOMEWIDE	X-chromosome hypermutation	X chromosome increased mutation rate	ADDITIONAL_INFO	REFERENCE
+acute myeloid leukemia	AML1	M1	F	57	y	378	NO	YES		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML2	M1	M	38	y	363	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML3	M1	M	56	y	471	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML4	M1	F	57	y	555	NO	YES		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML5	M1	M	22	y	183	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML6	M1	M	61	y	658	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML7	M1	F	21	y	210	YES	YES		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML8	M1	F	32	y	324	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML21	M1	F	67	y	706	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML33	M1	F	30	y	370	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML34	M1	M	51	y	134	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML40	M1	M	53	y	536	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML9	M3	M	25	y	244	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML10	M3	M	62	y	414	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML11	M3	M	50	y	407	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML12	M3	M	48	y	450	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML13	M3	M	53	y	648	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML14	M3	F	31	y	461	NO	YES		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML15	M3	F	25	y	214	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML16	M3	F	29	y	116	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML48	M3	F	68	y	599	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML49	M3	M	59	y	543	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML50	M3	F	40	y	475	NO	YES		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+acute myeloid leukemia	AML51	M3	M	35	y	615	NO	NO		Welch et al. (2012). The origin and evolution of mutations in acute myeloid leukemia. Cell 150, 264–278.
+B-cell lymphoma	4101316	DLBCL	F	74	y	2434	YES	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4104893	DLBCL	M	16	y	7103	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4105105	FL	F	40	y	3680	NO	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4108101	DLBCL	M	66	y	3419	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4112512	BL	F	18	y	2227	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4116738	DLBCL	M	15	y	8144	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4119027	BL	M	12	y	2588	NO	NO		Richter et al. (2012). Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nature Genetics 44, 1316–1320.
+B-cell lymphoma	4120193	DLBCL	F	48	y	23843	YES	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4121361	FL	M	74	y	6416	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4125240	BL	M	4	y	2069	NO	NO		Richter et al. (2012). Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nature Genetics 44, 1316–1320.
+B-cell lymphoma	4133511	BL	M	5	y	3793	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4134005	FL	M	67	y	8735	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4135099	DLBCL	M	49	y	23500	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4135350	Intermediate	M	8	y	13282	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4142267	BL	M	5	y	1641	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4158726	FL	M	48	y	4391	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4159170	FL	M	43	y	3486	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4163639	DLBLC	F	75	y	39316	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4175837	FL	F	74	y	4736	YES	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4177376	FL	F	73	y	7639	NO	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4177434	BL	F	16	y	1830	NO	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4177856	BL	M	10	y	3824	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4182393	BL	M	11	y	1629	NO	NO		Richter et al. (2012). Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nature Genetics 44, 1316–1320.
+B-cell lymphoma	4188900	FL	M	76	y	5764	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4189200	FL	F	51	y	3775	NO	YES		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4189998	BL	M	13	y	3766	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4190495	BL	M	15	y	4913	NO	NO		Richter et al. (2012). Recurrent mutation of the ID3 gene in Burkitt lymphoma identified by integrated genome, exome and transcriptome sequencing. Nature Genetics 44, 1316–1320.
+B-cell lymphoma	4193278	BL	M	17	y	2816	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4194218	BL	M	4	y	2209	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+B-cell lymphoma	4194891	BL	M	4	y	1833	NO	NO		ICGC MMML-seq, unpublished; Short-read sequencing data have been deposited at the European Genome-phenome Archive (EGA, http://www.ebi.ac.uk/ega/) hosted by the EBI, under accession number EGAS00001000394
+breast cancer	PD3851	Ductal	F	61	y	1782	NO	YES		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD3890	Ductal	F	41	y	6124	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD3904	Ductal	F	39	y	5608	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD3905	Ductal	F	34	y	4587	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD3945	Ductal	F	59	y	10308	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4005	Ductal	F	39	y	6104	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4006	Ductal	F	39	y	9194	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4085	Ductal	F	64	y	2673	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4086	Ductal	F	58	y	2199	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4088	Ductal	F	32	y	1705	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4103	Ductal	F	46	y	5360	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4107	Ductal	F	33	y	10291	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4109	Ductal	F	67	y	9888	YES	YES		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4115	Ductal	F	54	y	9954	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4116	Ductal	F	32	y	8026	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4120	Ductal	F	60	y	70690	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4192	Ductal	F	70	y	3919	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4194	Lobular	F	43	y	1484	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4198	Ductal	F	59	y	4552	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4199	Ductal	F	59	y	6932	NO	NO		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+breast cancer	PD4248	Ductal 	F	48	y	2536	YES	YES		Nik-Zainal et al. (2012). Mutational processes molding the genomes of 21 breast cancers. Cell 149, 979–993.
+chronic lymphocytic leukemia	CLL1	A(0)	M	44	y	961	NO	NO		Puente et al. (2011). Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia. Nature 475, 101–105.
+chronic lymphocytic leukemia	CLL2	A(0)	F	59	y	991	NO	NO		Puente et al. (2011). Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia. Nature 475, 101–105.
+chronic lymphocytic leukemia	CLL3	C(IV)	M	45	y	1088	NO	NO		Puente et al. (2011). Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia. Nature 475, 101–105.
+chronic lymphocytic leukemia	CLL4	A(0)	F	42	y	1010	NO	NO		Puente et al. (2011). Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia. Nature 475, 101–105.
+colorectal adenocarcinoma	CRC-1	I	F	NA	y	10445	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-2	I	F	NA	y	10561	NO	YES		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-3	III	F	NA	y	13572	NO	YES		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-4	III	F	NA	y	13883	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-5	IV	F	NA	y	17315	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-6	II	F	NA	y	10296	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-7	II	M	NA	y	15884	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-8	II	M	NA	y	19931	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+colorectal adenocarcinoma	CRC-9	II	M	NA	y	26081	NO	NO		Bass et al. (2011). Genomic sequencing of colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature Genetics 43, 964–968.
+ependymoma	6EP2	NA	M	NA	y	695	NO	NO		Mack, Witt et al., submitted
+ependymoma	6EP6	NA	M	NA	y	631	NO	NO		Mack, Witt et al., submitted
+ependymoma	6EP16	NA	M	NA	y	784	NO	NO		Mack, Witt et al., submitted
+ependymoma	6EP17	NA	F	NA	y	737	YES	YES		Mack, Witt et al., submitted
+ependymoma	6EP18	NA	M	NA	y	800	NO	NO		Mack, Witt et al., submitted
+glioblastoma multiforme	GBM103	NA	F	50	y	5110	YES	YES		Pfister et al., unpublished
+medulloblastoma	MB1	2_SHH	F	6	y	458	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB2	4_Group4	M	7	y	398	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB3	2_SHH	F	16	y	1092	YES	YES		Kool et al., submitted
+medulloblastoma	MB5	3_Group3	F	6	y	624	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB6	4_Group4	F	14	y	1169	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB7	4_Group4	M	9	y	818	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB8	4_Group4	F	11	y	819	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB9	3_Group3	M	6	y	611	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB12	2_SHH	M	3	y	236	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB15	4_Group4	M	17	y	983	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB16	3_Group3	M	3	y	400	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB17	3_Group3	F	15	y	729	NO	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB18	3_Group3	F	13	y	1221	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB19	4_Group4	F	13	y	739	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB20	1_WNT	F	9	y	960	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB21	2_SHH	F	4	y	394	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB23	2_SHH	F	10	y	2187	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB24	4_Group4	M	7	y	310	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB26	4_Group4	M	8	y	905	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB28	2_SHH	M	1	y	59	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB31	1_WNT	F	14	y	1849	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB32	3_Group3	F	8	y	607	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB34	2_SHH	F	13	y	3524	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB36	3_Group3	M	4	y	1373	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB37	2_SHH	F	1	y	95	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB38	4_Group4	M	6	y	787	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB39	3_Group3	M	4	y	235	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB40	4_Group4	M	3	y	126	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB45	3_Group3	M	3	y	1736	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB46	1_WNT	F	6	y	757	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB49	4_Group4	M	10	y	771	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB50	3_Group3	F	10	y	1303	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB51	4_Group4	M	7	y	523	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB53	2_SHH	M	20	y	1750	NO	NO		Kool et al., submitted
+medulloblastoma	MB56	2_SHH	F	42	y	2887	YES	YES		Kool et al., submitted
+medulloblastoma	MB57	3_Group3	F	23	y	841	YES	YES		Northcott et al., unpublished
+medulloblastoma	MB58	4_Group4	M	19	y	1724	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB59	2_SHH	F	32	y	2481	YES	YES		Kool et al., submitted
+medulloblastoma	MB60	2_SHH	M	23	y	1349	NO	NO		Kool et al., submitted
+medulloblastoma	MB61	2_SHH	M	28	y	2816	NO	NO		Kool et al., submitted
+medulloblastoma	MB63	2_SHH	M	27	y	2128	NO	NO		Kool et al., submitted
+medulloblastoma	MB64	4_Group4	M	18	y	987	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB65	4_Group4	M	18	y	734	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB66	2_SHH	M	25	y	2051	NO	NO		Kool et al., submitted
+medulloblastoma	MB67	2_SHH	M	22	y	1044	NO	NO		Kool et al., submitted
+medulloblastoma	MB68	2_SHH	F	22	y	2115	YES	YES		Kool et al., submitted
+medulloblastoma	MB69	2_SHH	F	29	y	2294	YES	YES		Kool et al., submitted
+medulloblastoma	MB70	3_Group3	M	28	y	1738	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB71	4_Group4	M	20	y	1067	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB74	2_SHH	M	23	y	2401	NO	NO		Kool et al., submitted
+medulloblastoma	MB75	2_SHH	F	31	y	2242	YES	YES		Kool et al., submitted
+medulloblastoma	MB77	2_SHH	F	29	y	1907	YES	YES		Kool et al., submitted
+medulloblastoma	MB78	2_SHH	M	39	y	3278	NO	NO		Kool et al., submitted
+medulloblastoma	MB79	2_SHH	M	32	y	1856	NO	NO		Kool et al., submitted
+medulloblastoma	MB81	2_SHH	F	49	y	4457	YES	YES		Kool et al., submitted
+medulloblastoma	MB82	2_SHH	M	31	y	1763	NO	NO		Kool et al., submitted
+medulloblastoma	MB83	4_Group4	F	14	y	872	NO	YES		Northcott et al., unpublished
+medulloblastoma	MB84	4_Group4	M	12	y	1145	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB85	4_Group4	F	5	y	234	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB86	4_Group4	M	4	y	520	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB88	2_SHH	M	2	y	313	NO	NO		Kool et al., submitted
+medulloblastoma	MB89	3_Group3	F	4	y	604	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB90	3_Group3	M	2	y	330	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB91	4_Group4	M	15	y	1032	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB92	4_Group4	M	10	y	1787	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB94	4_Group4	F	15	y	2157	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB95	3_Group3	M	3	y	317	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB96	3_Group3	M	3	y	374	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB98	3_Group3	M	8	y	1013	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB99	4_Group4	M	8	y	767	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB101	2_SHH	F	39	y	4286	YES	YES		Kool et al., submitted
+medulloblastoma	MB102	2_SHH	F	23	y	1872	NO	NO		Kool et al., submitted
+medulloblastoma	MB104	2_SHH	M	35	y	2489	NO	NO		Kool et al., submitted
+medulloblastoma	MB106	3_Group3	M	3	y	444	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB107	1_WNT	M	15	y	1999	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB108	4_Group4	M	10	y	601	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB110	4_Group4	F	10	y	3703	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB111	NA	F	4	y	430	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB112	1_WNT	M	7	y	1245	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB113	1_WNT	F	14	y	1224	YES	YES		Northcott et al., unpublished
+medulloblastoma	MB114	4_Group4	M	8	y	560	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB115	4_Group4	M	16	y	660	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB117	1_WNT	F	13	y	1118	YES	YES		Northcott et al., unpublished
+medulloblastoma	MB121	4_Group4	M	8	y	636	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB122	1_WNT	M	11	y	1186	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB124	1_WNT	F	17	y	1804	YES	YES		Northcott et al., unpublished
+medulloblastoma	MB125	2_SHH	F	19	y	3351	YES	YES		Kool et al., submitted
+medulloblastoma	MB126	2_SHH	F	31	y	3655	YES	YES		Kool et al., submitted
+medulloblastoma	MB127	2_SHH	F	25	y	2906	YES	YES		Kool et al., submitted
+medulloblastoma	MB128	NA	M	46	y	9936	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB129	NA	M	16	y	1343	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB130	1_WNT	F	7	y	1140	YES	YES		Northcott et al., unpublished
+medulloblastoma	MB131	NA	M	5	y	1278	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB132	2_SHH	F	5	y	322	YES	YES		Kool et al., submitted
+medulloblastoma	MB134	NA	F	3	y	692	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB137	2_SHH	M	10	y	2892	NO	NO		Kool et al., submitted
+medulloblastoma	MB139	NA	M	3	y	649	NO	YES	patient with Klinefelter Syndrome	Northcott et al., unpublished
+medulloblastoma	MB144	NA	F	10	y	934	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB145	2_SHH	M	13	y	2142	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB146	3_Group3	F	7	y	1424	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB148	1_WNT	F	NA	y	426	No	YES		Northcott et al., unpublished
+medulloblastoma	MB151	3_Group3	M	5	y	883	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB152	3_Group3	F	10	y	1939	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB518	1_WNT	M	13	y	1227	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB612	4_Group4	M	5	y	351	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB800	3_Group3	F	12	y	1132	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	MB_T27	3_Group3	M	15	y	4084	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB_T36	4_Group4	M	8	y	576	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB_T54	3_Group3	M	3	y	875	NO	NO		Northcott et al., unpublished
+medulloblastoma	MB_T70	4_Group4	M	9	y	876	NO	NO		Northcott et al., unpublished
+medulloblastoma	LFS_MB1	2_SHH	F	11	y	2291	YES	YES		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	LFS_MB2	2_SHH	M	14	y	1832	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+medulloblastoma	LFS_MB4	2_SHH	M	12	y	1379	NO	NO		Jones et al. (2012). Dissecting the genomic complexity underlying medulloblastoma. Nature 488, 100–105.
+neuroblastoma	N041T	NA	F	46	m	1972	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N062T	NA	F	1	m	258	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N085T	NA	M	3	m	255	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N089T	NA	M	18	m	905	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N097T	NA	M	9	m	64	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N106T	NA	M	18	m	980	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N127T	NA	F	3	m	153	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N130T	NA	M	20	m	891	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N159T	NA	F	28	m	1107	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N161T	NA	M	4	m	451	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N165T	NA	F	34	m	1399	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N166T	NA	M	9	m	289	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N170T	NA	M	0	m	1885	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N194T	NA	M	27	m	1003	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N198T	NA	M	34	m	1162	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N201T	NA	M	0	m	193	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N205T	NA	M	15	m	150	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N225T	NA	F	3	m	253	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N406T	NA	M	12	m	485	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N407T	NA	F	32	m	754	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N410T	NA	F	26	m	1007	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N459T	NA	F	8	m	1001	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N462T	NA	F	27	m	1264	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N477T	NA	M	8	m	182	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N479T	NA	M	45	m	1523	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N481T	NA	M	21	m	471	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N482T	NA	M	0	m	150	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N492T	NA	F	30	m	1077	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N508T	NA	F	27	m	4396	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N511T	NA	M	10	m	363	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N515T	NA	F	0	m	340	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N521T	NA	M	12	m	158	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N523T	NA	M	1	m	59	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N524T	NA	F	13	m	175	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N528T	NA	M	5	m	106	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N538T	NA	M	23	m	822	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N540T	NA	M	20	m	683	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N544T	NA	M	3	m	393	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N548T	NA	M	60	m	2083	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N554T	NA	M	51	m	1675	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N557T	NA	F	18	m	244	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N561T	NA	M	29	m	888	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N566T	NA	F	16	m	188	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N569T	NA	M	0	m	186	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N570T	NA	F	99	m	1192	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N571T	NA	M	48	m	1192	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N572T	NA	M	32	m	1303	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N575T	NA	F	2	m	190	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N576T	NA	F	55	m	1529	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N579T	NA	F	15	m	544	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N583T	NA	M	23	m	945	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N595T	NA	F	56	m	1467	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N596T	NA	M	29	m	207	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N598T	NA	M	0	m	133	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N599T	NA	M	49	m	1713	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N600T	NA	M	91	m	2097	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N604T	NA	M	28	m	1301	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N607T	NA	F	3	m	301	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N608T	NA	F	43	m	2967	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N614T	NA	F	17	m	352	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N619T	NA	M	21	m	914	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N635T	NA	M	23	m	1159	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N637T	NA	F	19	m	728	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N655T	NA	M	14	m	123	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N665T	NA	F	9	m	154	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N676T	NA	M	1	m	259	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N682T	NA	F	24	m	95	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N683T	NA	F	46	m	2542	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N685T	NA	M	0	m	140	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N691T	NA	F	73	m	3096	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N700TD	NA	F	127	m	2107	YES	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N701T	NA	F	54	m	2594	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N711T	NA	M	15	m	470	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N715T	NA	F	1	m	110	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N717T	NA	M	23	m	1511	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N718T	NA	M	42	m	1351	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N725T	NA	M	22	m	181	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N735T	NA	F	27	m	176	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N742T	NA	M	31	m	1305	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N743T	NA	F	3	m	282	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N744T	NA	M	518	m	3641	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N750T	NA	F	64	m	2119	NO	YES		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N752T	NA	F	39	m	1430	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+neuroblastoma	N753T	NA	M	27	m	900	NO	NO		Molenaar et al. (2012). Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 483, 589–593.
+pilocytic astrocytoma	PA10	Cerebellum	F	3	y	109	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA100	Cerebellum	F	1	y	117	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA102	Cerebellum	M	15	y	64	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA103	3rdventricle	M	7	y	52	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA105	Cerebellum	F	13	y	343	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA107	3rdventricle	F	4	y	134	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA108	Brainstem	F	5	y	180	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA109	Cerebellum	F	5	y	147	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA11	Cerebellum	F	11	y	368	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA110	Cerebellum	M	12	y	103	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA112	Parietallobe	M	14	y	165	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA116	Cerebellum	F	50	y	270	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA117	4thventricle	F	40	y	317	NO	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA12	4thventricle	F	14	y	275	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA126	4th ventricle	F	9	y	116	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA129	Cerebellum	M	25	y	539	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA131	Cerebellum	F	20	y	317	NO	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA134	Brainstem	M	7	y	72	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA135	Cerebellum	M	3	y	88	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA136	Cerebellum	F	14	y	264	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA138	Cerebellum	F	11	y	106	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA14	3rdventricle	F	5	y	112	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA140	3rdventricle	F	10	y	258	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA142	Cerebellum	F	22	y	267	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA143	4thventricle	F	17	y	248	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA144	Opticchiasm	F	2	y	121	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA145	Cerebellum	F	7	y	169	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA147	Cerebellum	M	12	y	199	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA148	3rdventricle	M	1	y	76	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA150	Cerebellum	M	2	y	93	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA157	Cerebellum	F	11	y	74	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA158	Brainstem	F	5	y	53	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA159	Opticchiasm	M	5	y	175	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA161	Cerebellum	M	1	y	183	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA162	Cerebellum	M	7	y	98	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA163	Brainstem	F	29	y	54	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA165	Brainstem	M	5	y	211	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA166	Hypothalamus	F	8	y	167	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA17	Brainstem	M	4	y	111	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA20	Thalamus	F	23	y	241	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA21	Opticchiasm	F	15	y	218	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA22	Cerebellum	M	4	y	309	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA24	Opticchiasm	M	2	y	123	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA25	4thventricle	M	3	y	74	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA27	Opticnerve	F	3	y	114	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA28	Cerebellum	F	8	y	108	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA29	Hypothalamus	M	12	y	166	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA3	Cerebellum	F	3	y	110	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA30	Cerebellum	F	14	y	496	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA33	Cerebellum	M	4	y	54	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA34	3rdventricle	M	2	y	144	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA36	Cerebellum	F	11	y	346	NO	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA37	Cerebellum	M	9	y	199	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA39	Cerebellum	F	9	y	124	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA4	Opticchiasm	M	1	y	128	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA41	Brainstem	F	15	y	132	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA42	Cerebellum	M	3	y	94	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA43	Brainstem	F	6	y	221	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA46	Thalamus	M	9	y	181	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA48	3rdventricle	F	3	y	117	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA5	Opticchiasm	F	4	y	84	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA50	Brainstem	M	6	y	105	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA53	Cerebellum	M	10	y	137	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA55	Cerebellum	F	5	y	113	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA56	Cerebellum	M	9	y	125	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA58	Brainstem	M	13	y	229	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA59	Cerebellum	F	5	y	111	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA62	Cerebellum	F	4	y	115	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA63	Brainstem	F	17	y	319	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA64	Brainstem	M	4	y	69	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA65	Thalamus	M	16	y	816	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA69	Thalamus	F	6	y	303	YES	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA70	Cerebellum	M	6	y	111	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA71	Opticchiasm	F	2	y	85	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA73	Cerebellum	M	9	y	349	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA75	Thalamus	M	14	y	454	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA79	Cerebellum	M	6	y	102	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA8	Cerebellum	F	7	y	64	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA81	Cerebellum	M	14	y	131	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA82	3rdventricle	M	12	y	149	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA83	Brainstem	F	8	y	186	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA84	3rdventricle	M	9	y	202	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA85	Cerebellum	F	4	y	80	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA86	Cerebellum	M	11	y	110	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA87	Cerebellum	F	4	y	134	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA88	Cerebellum	F	6	y	122	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA89	Brainstem	M	8	y	55	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA9	4thventricle	F	15	y	127	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA91	Brainstem	F	3	y	120	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA92	4thventricle	M	12	y	817	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA93	Cerebellum	F	21	y	538	NO	YES		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA94	Cerebellum	F	4	y	63	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA95	Cerebellum	F	7	y	153	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA96	Brainstem	F	15	y	114	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA97	Cerebellum	F	8	y	166	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+pilocytic astrocytoma	PA99	Cerebellum	M	9	y	127	NO	NO		Jones et al. (2013). Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma. Nature Genetics 45, 927–932.
+prostate carcinoma	EOPC-01	pT3a	M	45	y	5696	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-02	pT2c	M	51	y	3747	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-03	pT3a	M	46	y	4529	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-04	pT3b	M	51	y	2430	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-05	pT3a	M	50	y	1475	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-06	pT3b	M	38	y	1277	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-07	pT2c	M	49	y	1404	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-08	pT2c	M	44	y	931	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-09	pT2c	M	48	y	985	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-010	pT2c	M	46	y	1536	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+prostate carcinoma	EOPC-011	pT2c	M	48	y	1567	NO	NO		Weischenfeldt et al. (2013). Integrative Genomic Analyses Reveal an Androgen-Driven Somatic Alteration Landscape in Early-Onset Prostate Cancer. Cancer Cell 23, 159–170. 
+retinoblastoma	SJRB001DG	E,Vb	M	28	m	225	NO	NO		Zhang et al. (2012). A novel retinoblastoma therapy from genomic and epigenetic analyses. Nature 481, 329–334. 
+retinoblastoma	SJRB002DG	D/E,Vb	F	9	m	56	NO	NO		Zhang et al. (2012). A novel retinoblastoma therapy from genomic and epigenetic analyses. Nature 481, 329–334. 
+retinoblastoma	SJRB003DG	D,Vb	M	13	m	129	NO	NO		Zhang et al. (2012). A novel retinoblastoma therapy from genomic and epigenetic analyses. Nature 481, 329–334. 
+retinoblastoma	SJRB004DG	E,Va	F	21	m	258	YES	YES		Zhang et al. (2012). A novel retinoblastoma therapy from genomic and epigenetic analyses. Nature 481, 329–334. 
