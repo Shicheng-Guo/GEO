@@ -1,1 +1,1 @@
-## Genetic and Epigeneitc Research to human lung diseases
+## Genetic and Epigeneitc Research to Human Lung Diseases
