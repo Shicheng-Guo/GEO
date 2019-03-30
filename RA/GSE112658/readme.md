@@ -1,6 +1,7 @@
 ```
 setwd("/gpfs/home/guosa/hpc/rheumatology/RA/NatureCommunication/GSE112658/RNAseq")
 setwd("//mcrfnas2/bigdata/Genetic/Projects/shg047/rheumatology/RA/NatureCommunication/GSE112658/RNAseq")
+
 ENST2SymbolRef<-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/ENSG.ENST.ENSP.Symbol.hg19.bed")
 head(ENST2SymbolRef)
 data<-read.table("GSE112656_Counts_matix.txt",head=T,row.names=1,sep="\t")
