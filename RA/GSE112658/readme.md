@@ -1,3 +1,4 @@
+```
 setwd("/gpfs/home/guosa/hpc/rheumatology/RA/NatureCommunication/GSE112658/RNAseq")
 setwd("//mcrfnas2/bigdata/Genetic/Projects/shg047/rheumatology/RA/NatureCommunication/GSE112658/RNAseq")
 ENST2SymbolRef<-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/ENSG.ENST.ENSP.Symbol.hg19.bed")
@@ -16,3 +17,4 @@ head(output)
 FSTL1<-data.frame(fstl1=t(data[match("FSTL1",output$Rownames),]),type=c(rep("RA",10),rep("OA",10)))
 FSTL1
 boxplot(ENSG00000163430.5~type,FSTL1)
+```
