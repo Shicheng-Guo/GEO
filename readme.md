@@ -2,7 +2,7 @@ GEO dataset for deep analysis
 ```
 wget -r -l 1 -nd -e robots=off --reject jpg,html https://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16256/suppl/
 ```
-Type II GEO Dataset Format: Relations and SuperSeries
+Type II GEO Dataset Format: Relations and SuperSeries (GSE16256)
 ```
 Relations
 Reanalysis of	GSM678267
