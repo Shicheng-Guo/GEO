@@ -1,14 +1,13 @@
 
-皮肤只有RNA-seq数据Ann Rheum Dis
-http://dx.doi.org/10.1136/annrheumdis-2019-215894   GSE130955
-
+皮肤只有RNA-seq数据Ann Rheum Dis, http://dx.doi.org/10.1136/annrheumdis-2019-215894, GSE130955
 
 肺单细胞测序文章：
-1、Am J Respir Crit Care Med
-https://doi.org/10.1164/rccm.201712-2410OC  GSE122960
+
+1、Am J Respir Crit Care Med, https://doi.org/10.1164/rccm.201712-2410OC  GSE122960
 样本信息：IPF:4;  SSc:2;  polymyositis皮肌炎:1;  chronic hypersensitivity pneumonitis肺炎：1;  对照:8;
-2、Ann Rheum Dis
-http://dx.doi.org/10.1136/annrheumdis-2018-214865  GSE128169
+
+2、Ann Rheum Dis,  http://dx.doi.org/10.1136/annrheumdis-2018-214865  GSE128169
+
 样本信息：（SSc和NOR）
 
 3、bioRxiv
