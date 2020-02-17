@@ -10,8 +10,7 @@
 
 样本信息：（SSc和NOR）
 
-3、bioRxiv
-https://www.biorxiv.org/content/10.1101/753806v1.full  GSE135893
+3、bioRxiv, https://www.biorxiv.org/content/10.1101/753806v1.full  GSE135893
 
 样本信息：IPF (n = 12), chronic hypersensitivity pneumonitis肺炎 (cHP; n = 3), nonspecific interstitial pneumonia (NSIP; n = 2), sarcoidosis肺结节 (n = 2),  unclassifiable interstitial lung disease (ILD; n = 1), as well as nonfibrotic controls (declined donors; n = 10)
 
