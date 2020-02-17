@@ -14,8 +14,7 @@
 
 样本信息：IPF (n = 12), chronic hypersensitivity pneumonitis肺炎 (cHP; n = 3), nonspecific interstitial pneumonia (NSIP; n = 2), sarcoidosis肺结节 (n = 2),  unclassifiable interstitial lung disease (ILD; n = 1), as well as nonfibrotic controls (declined donors; n = 10)
 
-4, bioRxiv
-https://www.biorxiv.org/content/10.1101/759902v3.full  GSE136831
+4, bioRxiv, https://www.biorxiv.org/content/10.1101/759902v3.full  GSE136831
 32 IPF, 18 COPD and 29 control donor lungs
 
 
