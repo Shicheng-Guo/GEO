@@ -1,5 +1,6 @@
 library(DSS)
 require(bsseq)
+
 setwd("/mnt/bigdata/Genetic/Projects/shg047/rheumatology/RA/NatureCommunication/GSE112658")
 
 RA1 <- read.table("GSM3075569_RA_01.cpgs.tsv.dss", header=F)
